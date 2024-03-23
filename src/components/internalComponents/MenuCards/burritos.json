@@ -1,0 +1,32 @@
+[
+    {
+        "imgsrc": "https://img.freepik.com/free-photo/side-view-shawarma-with-fried-potatoes-board-cookware_176474-3215.jpg?t=st=1710513507~exp=1710517107~hmac=0aa081ba19638920719a535ddb9f2790d83b703bd411e28db32a8dc56840f3e3&w=826",
+        "name": "Classic Beef Burrito",
+        "description": "Grilled beef, rice, beans, cheese, and salsa wrapped in a flour tortilla.",
+        "price": 8.99
+    },
+    {
+        "imgsrc": "https://img.freepik.com/free-photo/front-view-delicious-meal-sandwich-made-meat-grilled-spit-sliced-white-space_140725-79284.jpg?t=st=1710513526~exp=1710517126~hmac=4a33c8fe74674bd6f31abd22d39ff6f0112a3259c6c7b1aae0c5d3f9b7d960e1&w=1380",
+        "name": "Chicken and Rice Burrito",
+        "description": "Grilled chicken, rice, black beans, cheese, and salsa wrapped in a flour tortilla.",
+        "price": 9.49
+    },
+    {
+        "imgsrc": "https://img.freepik.com/free-photo/close-up-beef-burrito-with-tomato-cucumber-lettuce-jalapeno-served-with-fries-sauces_141793-2019.jpg?t=st=1710513539~exp=1710517139~hmac=cde65be735c2c7c8a60ed0c772c7e836d24cef12d477107b3b244fc90dc62927&w=1380",
+        "name": "Vegetarian Burrito",
+        "description": "Grilled vegetables, rice, beans, cheese, and salsa wrapped in a flour tortilla.",
+        "price": 7.99
+    },
+    {
+        "imgsrc": "https://img.freepik.com/free-photo/tortilla-with-added-ink-cuttlefish-with-chicken-vegetables_2829-10963.jpg?t=st=1710513549~exp=1710517149~hmac=6ff483aa443e4d4c799fe8574909d41027630d77e2e4ef26340e14fc5b4803ed&w=1380",
+        "name": "Spicy Pork Burrito",
+        "description": "Marinated pork, rice, beans, cheese, and spicy salsa wrapped in a flour tortilla.",
+        "price": 8.49
+    },
+    {
+        "imgsrc": "https://img.freepik.com/free-photo/tortilla_144627-20840.jpg?t=st=1710513560~exp=1710517160~hmac=381193c59d042d387a13a36443b0362a9b9a21d2a47b1a16b2b7c3e54a646383&w=740",
+        "name": "Breakfast Burrito",
+        "description": "Scrambled eggs, bacon, cheese, potatoes, and salsa wrapped in a flour tortilla.",
+        "price": 6.99
+    }
+]

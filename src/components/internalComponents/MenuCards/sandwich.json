@@ -1,0 +1,38 @@
+[
+    {
+        "imgsrc": "https://img.freepik.com/free-photo/side-view-club-sandwich-with-salted-cucumbers-lemon-olives-round-white-plate_176474-3049.jpg?t=st=1710513125~exp=1710516725~hmac=c913904f6ed8c63c7a5b6133f99ee1999d34153f6a815484a13e7b9ee09eb385&w=826",
+        "name": "Classic Sandwich",
+        "description": "A classic sandwich with ham, cheese, lettuce, and tomato.",
+        "price": 5.99
+    },
+    {
+        "imgsrc": "https://img.freepik.com/free-photo/side-view-tuna-sandwich-white-bread-with-tomato-tuna-cucumber-lettuce-coffee-beans-table_141793-5148.jpg?t=st=1710513165~exp=1710516765~hmac=7eaf30e8b117600147c0bee66fdc8bc10b9cf0cd06d3f61e4d463ac6c6756077&w=1380",
+        "name": "Chicken Club",
+        "description": "Grilled chicken, bacon, lettuce, tomato, and mayo on toasted bread.",
+        "price": 7.49
+    },
+    {
+        "imgsrc": "https://img.freepik.com/free-photo/chicken-doner-bread-wooden-board_140725-9458.jpg?t=st=1710513183~exp=1710516783~hmac=6f61b57d02188ea672d64cda62256db9a15c64d4a980df39454ab452dc2a1922&w=1380",
+        "name": "Turkey & Avocado",
+        "description": "Roasted turkey breast, avocado, lettuce, tomato, and mayo on whole wheat bread.",
+        "price": 6.99
+    },
+    {
+        "imgsrc": "https://img.freepik.com/free-photo/sandwich-desk-with-orange-juice_140725-6327.jpg?t=st=1710513202~exp=1710516802~hmac=bc3d3209551cd8375652782718e5beae3b8e05c193a3cc9bb72d8a9e5399ddc6&w=740",
+        "name": "BLT",
+        "description": "Bacon, lettuce, tomato, and mayo on toasted bread.",
+        "price": 5.49
+    },
+    {
+        "imgsrc": "https://img.freepik.com/free-photo/tasty-sandwiches-with-green-salad-tomatoes-along-with-green-bell-pepper-bread-lemon-blue_140725-30120.jpg?t=st=1710513245~exp=1710516845~hmac=bd336c79edb9eaee1f49d5ddb52357b61bcc1b78bdd23118962aebe9d7de7d87&w=1380",
+        "name": "Veggie Delight",
+        "description": "Fresh vegetables, cheese, and hummus on multigrain bread.",
+        "price": 6.49
+    },
+    {
+        "imgsrc": "https://img.freepik.com/free-photo/sandwich-wooden-chopping-board-blue-background_140725-6385.jpg?t=st=1710513249~exp=1710516849~hmac=f81e06c52937c34d031646ea5b9b73ed0b7a666487c40e14c18e9d8f4d2a2f62&w=1380",
+        "name": "Grilled Cheese",
+        "description": "Melted cheese between slices of toasted bread.",
+        "price": 4.99
+    }
+]
